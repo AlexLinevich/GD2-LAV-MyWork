@@ -6,5 +6,7 @@ public class Main {
         System.out.println("World");
 
         System.out.println("Feature");
+
+        System.out.println("Feature");
     }
 }
